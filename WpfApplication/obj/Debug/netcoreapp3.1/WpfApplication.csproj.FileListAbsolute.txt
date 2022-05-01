@@ -1,0 +1,8 @@
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\netcoreapp3.1\WpfApplication.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\netcoreapp3.1\WpfApplication\App.g.cs
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\netcoreapp3.1\WpfApplication\MainWindow.g.cs
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\netcoreapp3.1\WpfApplication_MarkupCompile.cache
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\netcoreapp3.1\WpfApplication_MarkupCompile.lref
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\netcoreapp3.1\WpfApplication.csproj.AssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\net5.0-windows\WpfApplication.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\net5.0-windows\WpfApplication.csproj.ResolveComReference.cache
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\net5.0-windows\WpfApplication\App.g.cs
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\net5.0-windows\WpfApplication\MainWindow.g.cs
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\net5.0-windows\WpfApplication_MarkupCompile.cache
+C:\Users\asus\source\repos\WpfApplication\obj\Debug\net5.0-windows\WpfApplication_MarkupCompile.lref
